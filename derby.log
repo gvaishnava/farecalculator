@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jan 09 01:21:51 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-e38e-1ce5-000004dc0020 
+on database directory memory:C:\Users\gvaishnava\Documents\sahaj\farecalculation\testdb with class loader sun.misc.Launcher$AppClassLoader@2d98a335 
+Loaded from file:/C:/Users/gvaishnava/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\gvaishnava\Documents\sahaj\farecalculation
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
